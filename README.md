@@ -8,7 +8,7 @@ This project analyses user behavior based on a dataset simulating real-world dri
 
 ## Important Links
 
-[Coupons Dataset]
+[Coupons Dataset](https://github.com/amitkushwaha2000/AIMIL_5.1_Coupon_Acceptance/blob/main/coupons.csv)
 
 [Jupyter Notebook](https://github.com/amitkushwaha2000/AIMIL_5.1_Coupon_Acceptance/blob/main/AIML%205.1%20Coupon%20Analysis.ipynb)
 
